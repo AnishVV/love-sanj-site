@@ -4,7 +4,8 @@ post_title: Hello world!
 author: etqptkey
 post_excerpt: ""
 layout: post
-permalink: https://lovesanj.cloudaccess.host/?p=1
+permalink: >
+  https://lovesanj.cloudaccess.host/hello-world/
 published: true
 post_date: 2020-04-10 02:15:27
 ---
