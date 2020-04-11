@@ -5,7 +5,7 @@ author: etqptkey
 post_excerpt: ""
 layout: page
 permalink: >
-  https://lovesanj.cloudaccess.host/sample-page/
+  https://lovesanj.cloudaccess.host/home/sample-page/
 published: true
 post_date: 2020-04-10 02:15:27
 ---
