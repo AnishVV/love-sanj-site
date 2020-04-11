@@ -5,7 +5,7 @@ author: etqptkey
 post_excerpt: ""
 layout: page
 permalink: >
-  https://lovesanj.cloudaccess.host/?page_id=2
+  https://lovesanj.cloudaccess.host/sample-page/
 published: true
 post_date: 2020-04-10 02:15:27
 ---
@@ -14,7 +14,7 @@ post_date: 2020-04-10 02:15:27
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
