@@ -9,18 +9,26 @@ permalink: >
 published: true
 post_date: 2019-06-10 11:33:53
 ---
+<!-- wp:heading -->
+<h2><strong><span style="color:#e3a7a8" class="has-inline-color">Hi, I'm Sanjana.</span></strong></h2>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
-<p>Nunc fringilla scelerisque commodo. Donec quis erat diam. Proin magna sapien, lobortis quis pulvina iaculis at diam. Etiam orci quis mi fermentum feugiat. Fusce sed ligula velit. Aliquam viverra ultricies diam molestie ultricies. Donec ex non turpis onsectetur aliquam eget non nisi. Donec eget nunc eget massa sagittis porttitor. Interdum et malesuada famesa ipsum primis in faucibus. Fusce hendrerit sapien sit amet eros dignissim dapibus. Vivamus finibus, nibh non varius feugiat, sem odio commodo us luctus.</p>
+<p>I’m an interdisciplinary techie&nbsp;+ marketer on a mission to foster community and find the best breakfast taco in ATX.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Proin non eros at tellus auctor dignis eget magna. Anteger volutpat lacus eget orta dapibus. Aenean metus mauris, tempus at bibendum gravida leo.</p></blockquote>
+<blockquote class="wp-block-quote"><p>"Love, Sanj" is my creative outlet to grow as a writer and young adult. From the bottom of my heart, thank you for joining me on this adventure.</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>Vivamus convallis sollicitudin arcu, sit amet imperdiet urna sodales non. Nulla mauris erat, pharetra ut venenatis acan consequat vitae nunc. Sed elementum pharetra purus id commodo. Nullam ornare orci sit amet nunc auctor ullamcorper lacus sagittis.</p>
+<p>Living in Austin, I am constantly inspired by the people and places around me. It’s that eclectic, yet simple Austin personality which drives my creativity and influences my work. By day, I work in marketing at Facebook. By night, I dabble in baking vegan treats, exploring Indian fashion trends, and planning my next big exotic escapade. </p>
 <!-- /wp:paragraph -->
 
+<!-- wp:heading {"level":4} -->
+<h4><span style="color:#e3a7a8" class="has-inline-color">Love,<br>Sanj</span></h4>
+<!-- /wp:heading -->
+
 <!-- wp:paragraph -->
-<p>Fusce consectetur at lacus sed aliquet. Morbi hendrerit ornare arcu at sagittis. Curabitur ullam corper ligula quis lectus tempor blandit. Suspendisse vestibulum libero turpis. Donec feugiat ut dui nec dapibus. Vestibulum afacilisis porttitor nisi, in laoreet nisl feugiat in. In ornare neque quis mauris tristique ultrices. Pellentesque ac velit quis tellus dignissim porta et nec metus.</p>
+<p></p>
 <!-- /wp:paragraph -->
