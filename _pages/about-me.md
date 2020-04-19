@@ -18,11 +18,11 @@ post_date: 2019-06-10 11:33:53
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>"Love, Sanj" is my creative outlet to grow as a writer and young adult. From the bottom of my heart, thank you for joining me on this adventure.</p></blockquote>
+<blockquote class="wp-block-quote"><p>"Love, Sanj" is my&nbsp;creative outlet to grow as a writer and young adult.&nbsp;From the bottom of my heart, thank you for joining me on this adventure.</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:paragraph -->
-<p>Living in Austin, I am constantly inspired by the people and places around me. It’s that eclectic, yet simple Austin personality which drives my creativity and influences my work. By day, I work in marketing at Facebook. By night, I dabble in baking vegan treats, exploring Indian fashion trends, and planning my next big exotic escapade. </p>
+<p>Living in Austin, I am constantly inspired by the people and places around me. It’s that eclectic, yet simple Austin personality which drives my creativity and influences my work.&nbsp;By day, I work in marketing at Facebook. By night, I&nbsp;dabble&nbsp;in baking vegan treats, exploring Indian fashion trends, and planning my next big exotic escapade.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":4} -->
