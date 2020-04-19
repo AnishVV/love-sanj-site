@@ -9,6 +9,10 @@ permalink: >
 published: true
 post_date: 2019-06-10 11:33:53
 ---
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="blob:https://lovesanj.cloudaccess.host/f62ba460-42c5-4422-8d76-8c57ef964d07" alt=""/></figure>
+<!-- /wp:image -->
+
 <!-- wp:heading -->
 <h2><strong><span style="color:#e3a7a8" class="has-inline-color">Hi, I'm Sanjana.</span></strong></h2>
 <!-- /wp:heading -->
